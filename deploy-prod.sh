@@ -16,6 +16,10 @@ drush cr
 drush updb
 drush cr
 
+#Mise a jour des shema des tuyoes d'entites
+drush entup
+drush cr
+
 # Export des configs de prod.
 drush csex prod -y
 
