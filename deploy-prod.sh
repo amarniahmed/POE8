@@ -12,7 +12,7 @@ git pull origin master
 composer install --no-dev
 drush cr
 
-#Mise à jour de base
+#Mise à jour d base
 drush updb
 drush cr
 
