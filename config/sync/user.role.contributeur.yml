@@ -6,5 +6,4 @@ id: contributeur
 label: Contributeur
 weight: 3
 is_admin: null
-permissions:
-  - 'view files'
+permissions: {  }
