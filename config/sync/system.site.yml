@@ -1,5 +1,5 @@
 uuid: 925f376a-0b66-44e6-8b07-6f80eb30c06f
-name: 'drush install-console'
+name: 'drupal deploy'
 mail: admin@example.com
 slogan: ''
 page:

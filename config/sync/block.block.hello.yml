@@ -1,0 +1,20 @@
+uuid: 93f86938-6241-4e8a-9f68-1df427990bf5
+langcode: en
+status: true
+dependencies:
+  module:
+    - hello
+  theme:
+    - ive
+id: hello
+theme: ive
+region: sidebar_second
+weight: 0
+provider: null
+plugin: hello_block
+settings:
+  id: hello_block
+  label: Hello
+  provider: hello
+  label_display: visible
+visibility: {  }
