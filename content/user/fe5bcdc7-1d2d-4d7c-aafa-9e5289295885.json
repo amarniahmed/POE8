@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/user\/14?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/user\/user\/user_picture": [
+            {
+                "href": "http:\/\/default\/file\/51?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "uid": [
+        {
+            "value": 14
+        }
+    ],
+    "uuid": [
+        {
+            "value": "fe5bcdc7-1d2d-4d7c-aafa-9e5289295885"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "prastetroci"
+        }
+    ],
+    "mail": [
+        {
+            "value": "prastetroci@example.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-12-11T23:46:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-12T13:44:04+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "access": [
+        {
+            "value": "1970-01-01T00:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "login": [
+        {
+            "value": "1970-01-01T00:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/user\/user\/user_picture": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/file\/51?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/undefined"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "43544170-8066-4c25-a15e-5880396a3000"
+                    }
+                ],
+                "lang": "en",
+                "alt": "Comis duis humo ideo nunc paratus quibus quis tation valde.",
+                "title": "Cogo immitto luctus metuo natu nutus odio pagus patria virtus.",
+                "width": "572",
+                "height": "513"
+            }
+        ]
+    }
+}
